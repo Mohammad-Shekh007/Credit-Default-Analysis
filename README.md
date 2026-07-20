@@ -26,7 +26,7 @@ Final model — 6 of the original 20 variables remained: loan amount (log), age 
 
 Results
 
-SetMisclassification rateROC AUCTrain0.2350.790Validation0.2450.778Test0.2700.714
+<img width="800" height="248" alt="image" src="https://github.com/user-attachments/assets/a5c7118d-a9e1-4341-8501-0c812a6f034b" />
 
 All 6 final variables are individually significant at p < 0.05, and variance inflation factors show no meaningful multicollinearity.
 
