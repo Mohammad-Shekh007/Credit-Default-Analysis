@@ -28,6 +28,8 @@ Results
 
 <img width="800" height="248" alt="image" src="https://github.com/user-attachments/assets/a5c7118d-a9e1-4341-8501-0c812a6f034b" />
 
+The misclassification rate differences among training, validation and test sets are close enough to prove model fitted well and there is no overfitting.
+
 All 6 final variables are individually significant at p < 0.05, and variance inflation factors show no meaningful multicollinearity.
 
 
